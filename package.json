@@ -44,10 +44,4 @@
     "unique-names-generator": "^4.1.1",
     "unzipper": "^0.10.10"
   },
-  "eslintConfig": {
-    "env": {
-      "browser": true,
-      "node": true
-    }
-  }
 }
